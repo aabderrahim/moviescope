@@ -64,7 +64,7 @@ moviescope/
 - styled-components
 
 ## Auteur
-Ce projet a été réalisé dans le cadre d'une formation Simplon.
+Ce projet a été réalisé par abderrahim
 
 ---
 N'hésitez pas à contribuer ou à signaler des bugs !
